@@ -1,24 +1,32 @@
-# Brand Voice
+## Payment Types We Accept
+1. **Long Term Care Insurance (LTC)**
+   - Families who have LTC policies and need help using them
+   - Often stressed about claims process
+   - Need an agency that handles LTC billing directly
 
-## Company
-Name: Close At Home Care
-Website: care.closeathomecare.com
-Industry: Home Care Services
+2. **Private Pay**
+   - Families paying out of pocket
+   - Higher income, value quality over price
+   - Want premium, trustworthy care
 
-## Tone
-- Warm, caring and professional
-- Empathetic to families making difficult decisions
-- Trustworthy and authoritative
-- Never salesy or pushy
+3. **VA Benefits**
+   - Veterans and surviving spouses
+   - Often don't know they qualify
+   - Need guidance navigating VA benefits process
 
-## Target Audience
-- Adult children looking for care for aging parents
-- Seniors looking for in-home support
-- Family caregivers needing respite
+## Messaging by Payment Type
 
-## Writing Rules
-- Always lead with empathy
-- Use simple clear language
-- Avoid medical jargon
-- Focus on dignity and independence
-- Include local references where possible
+### LTC Insurance Leads
+- Lead with: "We work directly with your LTC insurance provider"
+- Pain point: Confusing claims process
+- CTA: "Let us handle your LTC claim"
+
+### Private Pay Leads
+- Lead with: Quality, trust, and peace of mind
+- Pain point: Finding someone they can truly trust
+- CTA: "Schedule a free in-home assessment"
+
+### VA Benefits Leads
+- Lead with: "You earned these benefits - let us help you use them"
+- Pain point: Not knowing they qualify or how to access benefits
+- CTA: "Find out if you qualify for VA home care benefits"
