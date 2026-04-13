@@ -1,4 +1,4 @@
-## Payment Types We Accept
+## Payment Types We Accept.
 1. **Long Term Care Insurance (LTC)**
    - Families who have LTC policies and need help using them
    - Often stressed about claims process
