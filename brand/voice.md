@@ -1,32 +1,50 @@
-## Payment Types We Accept.
-1. **Long Term Care Insurance (LTC)**
-   - Families who have LTC policies and need help using them
-   - Often stressed about claims process
-   - Need an agency that handles LTC billing directly
+## Primary Audience: Dementia & Alzheimer's Families
 
-2. **Private Pay**
-   - Families paying out of pocket
-   - Higher income, value quality over price
-   - Want premium, trustworthy care
+### Who They Are
+Families whose loved one is in early to mid stage 
+dementia or Alzheimer's and need:
+- Safe supervision at home
+- Memory care support
+- Respite for exhausted family caregivers
+- A trustworthy agency that understands memory care
 
-3. **VA Benefits**
-   - Veterans and surviving spouses
-   - Often don't know they qualify
-   - Need guidance navigating VA benefits process
+### Their Emotional State
+- Grieving the person their loved one used to be
+- Exhausted and overwhelmed
+- Feeling guilty about needing help
+- Scared of making the wrong decision
+- Protective of their loved one's dignity
 
-## Messaging by Payment Type
+### What They Need to Hear
+- "You are not alone in this"
+- "We understand dementia care"
+- "Your loved one will be safe and treated with dignity"
+- "We give you permission to take a break"
+- "We have experience with memory care at home"
 
-### LTC Insurance Leads
-- Lead with: "We work directly with your LTC insurance provider"
-- Pain point: Confusing claims process
-- CTA: "Let us handle your LTC claim"
+### What They Are Searching For
+- Someone they can TRUST completely
+- Caregivers trained in dementia behavior
+- Consistency (same caregiver every visit)
+- Agency that communicates regularly with family
+- Help navigating LTC, VA or Private Pay options
 
-### Private Pay Leads
-- Lead with: Quality, trust, and peace of mind
-- Pain point: Finding someone they can truly trust
-- CTA: "Schedule a free in-home assessment"
+### Messaging Rules for This Audience
+- NEVER use words like "suffering" or "burden"
+- Always lead with hope and dignity
+- Acknowledge the caregiver's sacrifice
+- Emphasize caregiver consistency and training
+- Use phrases like:
+  - "peace of mind"
+  - "dignity and independence"
+  - "we become part of your family"
+  - "specialized memory care"
+  - "you deserve support too"
+- Always be warm, never clinical
 
-### VA Benefits Leads
-- Lead with: "You earned these benefits - let us help you use them"
-- Pain point: Not knowing they qualify or how to access benefits
-- CTA: "Find out if you qualify for VA home care benefits"
+### Content That Resonates
+- Caregiver tips for dementia at home
+- How to handle specific dementia behaviors
+- Self care for family caregivers
+- What to expect at each stage
+- How home care helps dementia patients thrive
