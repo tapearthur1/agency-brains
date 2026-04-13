@@ -1,42 +1,46 @@
-## Ad Campaigns by Payment Type
+## Campaign 4: Dementia & Alzheimer's Families (PRIMARY)
 
-### Campaign 1: LTC Insurance
-- Audience: 50-70, homeowners, South Jersey
-- Headline: "Have Long Term Care Insurance? We Bill Directly"
-- Body: Families in Cherry Hill and South Jersey trust 
-  Close At Home Care to handle their LTC insurance claims 
-  so they can focus on what matters most.
-- CTA: Get a Free Consultation
+### Facebook Campaign
+- Audience: 
+  - Age 45-65
+  - South Jersey 15 mile radius
+  - Interests: Alzheimer's Association, dementia caregiving,
+    family caregiving, elder care
+  - Life events: Caring for a family member
 
-### Campaign 2: Private Pay
-- Audience: 50-70, high income, South Jersey
-- Headline: "Premium In-Home Care in Cherry Hill NJ"
-- Body: When only the best will do for your loved one. 
-  Trusted by South Jersey families for compassionate, 
-  professional home care.
-- CTA: Schedule Free Assessment
+- Ad 1 (Empathy lead):
+  - Headline: "Caring for a Parent with Dementia? You Don't 
+    Have to Do This Alone"
+  - Body: Thousands of South Jersey families trust Close At 
+    Home Care for specialized in-home memory care. Our 
+    caregivers are trained in dementia and Alzheimer's care 
+    — so your loved one stays safe, comfortable and 
+    dignified at home.
+  - CTA: Get a Free Consultation
 
-### Campaign 3: VA Benefits
-- Audience: Veterans 65+, surviving spouses 60+, South Jersey
-- Headline: "Veterans: Your Benefits May Cover Home Care"
-- Body: Did you know your VA benefits could pay for 
-  in-home care? Close At Home Care helps South Jersey 
-  veterans access the benefits they earned.
-- CTA: Check Your VA Eligibility Free
+- Ad 2 (Respite angle):
+  - Headline: "You've Been Their Caregiver. Now Let Us 
+    Help You"
+  - Body: Family caregivers in Cherry Hill and South Jersey 
+    — you deserve a break. Our dementia-trained caregivers 
+    step in so you can rest, knowing your loved one is in 
+    expert hands.
+  - CTA: Schedule Free Assessment
 
-## Blog Topics by Payment Type
+- Ad 3 (VA/LTC angle):
+  - Headline: "Your LTC Insurance or VA Benefits May Cover 
+    In-Home Dementia Care"
+  - Body: Many South Jersey families don't realize their 
+    Long Term Care Insurance or VA benefits can pay for 
+    specialized dementia care at home. We'll help you 
+    find out — at no cost to you.
+  - CTA: Check Your Coverage Free
 
-### LTC Insurance Content
-- "How to Use Your Long Term Care Insurance for Home Care in NJ"
-- "Does My LTC Policy Cover In-Home Care in Cherry Hill?"
-- "LTC Insurance and Home Care - What South Jersey Families Need to Know"
-
-### Private Pay Content  
-- "What Does Private Pay Home Care Cost in Cherry Hill NJ?"
-- "Why Families in Haddonfield Choose Private Pay Home Care"
-- "Is Private Pay Home Care Worth It? A South Jersey Guide"
-
-### VA Benefits Content
-- "VA Benefits for Home Care in New Jersey - Complete Guide"
-- "How South Jersey Veterans Can Get Free In-Home Care"
-- "Aid and Attendance Benefit - What NJ Veterans Need to Know."
+### Instagram Campaign
+- Visual style: Warm, real moments between caregivers 
+  and seniors. Never staged or clinical.
+- Caption tone: Hopeful, empathetic, community-focused
+- Hashtags:
+  #dementia #alzheimers #memorycareathome 
+  #cherryhillnj #southjersey #familycaregiving
+  #eldercare #homecare #respitecare #dementiasupport
