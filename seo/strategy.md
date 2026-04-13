@@ -1,67 +1,36 @@
-# SEO Strategy
+## Dementia & Alzheimer's Blog Topics
 
-## Business Info
-- Business: Close At Home Care
-- Primary Service Area: South Jersey (Cherry Hill, Haddonfield, Moorestown NJ)
-- Website: care.closeathomecare.com
+### Educational (builds trust and authority)
+- "10 Tips for Caring for a Parent with Dementia at Home"
+- "Early Signs of Alzheimer's - What South Jersey Families Should Know"
+- "How to Handle Sundowning - A Guide for Cherry Hill Caregivers"
+- "Dementia vs Alzheimer's - What's the Difference?"
+- "How to Talk to Someone with Dementia - Tips That Actually Work"
+- "Creating a Safe Home for Someone with Memory Loss in NJ"
 
-## Primary Keywords (Location-Based)
-### Haddonfield NJ
-- home care haddonfield nj
+### Local Intent (drives leads)
+- "Memory Care at Home in Cherry Hill NJ - What Families Need to Know"
+- "In-Home Dementia Care Near Haddonfield NJ"
+- "Alzheimer's Home Care Services in Moorestown NJ"
+- "Finding Dementia Caregivers Near Me in South Jersey"
 
-### Cherry Hill NJ
-- home care agencies in cherry hill nj
-- in home care cherry hill
-- cherry hill home care
-- home care cherry hill nj
-- senior care cherry hill nj
+### Payment Type + Dementia (high converting)
+- "Does Long Term Care Insurance Cover Dementia Home Care in NJ?"
+- "VA Benefits for Veterans with Dementia in New Jersey"
+- "How Much Does In-Home Dementia Care Cost in Cherry Hill NJ?"
 
-### Moorestown NJ
-- home care moorestown nj
-- moorestown home care
+### Caregiver Support (builds emotional connection)
+- "Caregiver Burnout - Signs You Need Help in South Jersey"
+- "You Can't Pour from an Empty Cup - Respite Care in Cherry Hill"
+- "When Is It Time to Get Help for a Parent with Alzheimer's?"
+- "How to Talk to Your Parent About Accepting Home Care Help"
 
-## Secondary Keywords (Intent-Based)
-- elderly home care services near me
-- in home elderly care near me
-- in home caregivers near me
-- elder home care services near me
-- elderly in home care near me
-- elder care services near me
-
-## Content Strategy
-### Blog Topics Queue
-Claude should rotate through these location + intent combinations:
-
-1. "Best Home Care Services in Cherry Hill NJ - What Families Need to Know"
-2. "In-Home Elderly Care Near Haddonfield NJ - A Complete Guide"
-3. "How to Choose a Home Care Agency in Moorestown NJ"
-4. "Signs Your Elderly Parent Needs In-Home Care in South Jersey"
-5. "What Does In-Home Care Cost in Cherry Hill NJ?"
-6. "Top Questions to Ask Home Care Agencies Near You"
-7. "How In-Home Caregivers Help Seniors Stay Independent"
-8. "Elder Care Services in South Jersey - Your Complete Guide"
-
-## SEO Rules for Every Blog Post
-- Always include location (Cherry Hill, Haddonfield or Moorestown) 
-  naturally in title
-- Include primary keyword in first 100 words
-- Use H2 headings with keyword variations
-- Add FAQ section at end targeting "near me" searches
-- Minimum 1200 words per post
-- Always end with CTA to contact Close At Home Care
-- Include internal links to other blog posts
-
-## Performance Tracking
-Update weekly after CEO report:
-
-| Week | Top Post | Top Keyword | Traffic | Leads |
-|------|----------|-------------|---------|-------|
-| 1    |          |             |         |       |
-| 2    |          |             |         |       |
-| 3    |          |             |         |       |
-| 4    |          |             |         |       |
-
-## Content Calendar
-- Monday: Haddonfield/Moorestown focused post
-- Thursday: Cherry Hill focused post
-- Rotate keywords so no topic is repeated within 60 days
+## Target Keywords - Dementia Specific
+- dementia care at home cherry hill nj
+- alzheimer's home care south jersey
+- in home dementia care near me
+- memory care at home haddonfield nj
+- dementia caregiver cherry hill
+- alzheimer's caregiver moorestown nj
+- respite care for dementia caregivers nj
+- dementia home care agencies near me
