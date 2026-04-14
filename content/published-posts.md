@@ -1,20 +1,2 @@
-# Published Posts Log
-## Close At Home Care — Content History
-
-This file is updated automatically after every published post.
-Claude must read this before writing any new content to avoid repetition.
-No keyword or topic should be repeated within 60 days.
-
----
-
-## Published Blog Posts
-
-| Date | Title | Keyword Targeted | Location | Topic |
-|------|-------|-----------------|----------|-------|
-| | | | | |
-
-## Keywords Used (last 60 days)
-None yet — this is the first week.
-
-## Topics Covered (last 60 days)
-None yet — this is the first week.
+undefined
+2025-07-14 | The Hidden Health Crisis in Your Neighborhood: How Companion Care Helps Seniors Beat Loneliness | companion care for seniors | Greater Toronto Area | Comprehensive guide to companion care covering loneliness health risks, signs a senior needs companionship, Close At Home Care's matching approach, companion vs community programs, scheduling options, and FAQ on funding and PSW differences
