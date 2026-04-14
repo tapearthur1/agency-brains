@@ -1,2 +1,6 @@
-undefined
-** 2025-01-30 | In-Home Dementia Care in Cherry Hill, NJ: What Families Need to Know | in home dementia care cherry hill nj | Cherry Hill, NJ | Comprehensive guide to in-home dementia care for Cherry Hill families, covering services offered by Close At Home Care, signs that care is needed, dementia progression, paying for care, local resources, and how to choose a provider.
+# Published Posts Log
+## Close At Home Care — Content History
+
+| Date | Title | Keyword | Location | Topic |
+|------|-------|---------|----------|-------|
+| 2026-04-13 | In-Home Dementia Care in Cherry Hill NJ | in home dementia care cherry hill nj | Cherry Hill NJ | Guide to dementia care for families |
