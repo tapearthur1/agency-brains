@@ -377,6 +377,7 @@ Every Monday generate a report covering:
 - [ ] E-E-A-T signals present
 - [ ] Reviewed against brand voice rules
 - [ ] Payment type angle included where relevant
+- [ ] Company name "Close At Home Care" appears naturally minimum 5 times
 
 ---
 *This prompt is the single source of truth for all content produced by
