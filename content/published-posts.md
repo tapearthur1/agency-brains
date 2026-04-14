@@ -1,20 +1,15 @@
-# Published Posts Log
-## Close At Home Care — Content History
+IyBQdWJsaXNoZWQgUG9zdHMgTG9nDQojIyBDbG9zZSBBdCBIb21lIENhcmUg
+4oCUIENvbnRlbnQgSGlzdG9yeQ0KDQpUaGlzIGZpbGUgaXMgdXBkYXRlZCBh
+dXRvbWF0aWNhbGx5IGFmdGVyIGV2ZXJ5IHB1Ymxpc2hlZCBwb3N0Lg0KQ2xh
+dWRlIG11c3QgcmVhZCB0aGlzIGJlZm9yZSB3cml0aW5nIGFueSBuZXcgY29u
+dGVudCB0byBhdm9pZCByZXBldGl0aW9uLg0KTm8ga2V5d29yZCBvciB0b3Bp
+YyBzaG91bGQgYmUgcmVwZWF0ZWQgd2l0aGluIDYwIGRheXMuDQoNCi0tLQ0K
+DQojIyBQdWJsaXNoZWQgQmxvZyBQb3N0cw0KDQp8IERhdGUgfCBUaXRsZSB8
+IEtleXdvcmQgVGFyZ2V0ZWQgfCBMb2NhdGlvbiB8IFRvcGljIHwNCnwtLS0t
+LS18LS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tfC0tLS0t
+LS18DQp8IHwgfCB8IHwgfA0KDQojIyBLZXl3b3JkcyBVc2VkIChsYXN0IDYw
+IGRheXMpDQpOb25lIHlldCDigJQgdGhpcyBpcyB0aGUgZmlyc3Qgd2Vlay4N
+Cg0KIyMgVG9waWNzIENvdmVyZWQgKGxhc3QgNjAgZGF5cykNCk5vbmUgeWV0
+IOKAlCB0aGlzIGlzIHRoZSBmaXJzdCB3ZWVrLg0K
 
-This file is updated automatically after every published post.
-Claude must read this before writing any new content to avoid repetition.
-No keyword or topic should be repeated within 60 days.
-
----
-
-## Published Blog Posts
-
-| Date | Title | Keyword Targeted | Location | Topic |
-|------|-------|-----------------|----------|-------|
-| | | | | |
-
-## Keywords Used (last 60 days)
-None yet — this is the first week.
-
-## Topics Covered (last 60 days)
-None yet — this is the first week.
+` entry in the correct format.
