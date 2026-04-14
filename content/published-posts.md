@@ -1,2 +1,2 @@
 undefined
-2025-07-14 | The Hidden Danger of Senior Loneliness (And How Companion Care Helps) | companion care for seniors | General/Service Area | Explains senior loneliness as a health risk, defines companion care, details its cognitive and emotional benefits, signs a loved one needs it, how to start the conversation, and how Close At Home Care delivers companion services
+** 2025-01-30 | In-Home Dementia Care in Cherry Hill, NJ: What Families Need to Know | in home dementia care cherry hill nj | Cherry Hill, NJ | Comprehensive guide to in-home dementia care for Cherry Hill families, covering services offered by Close At Home Care, signs that care is needed, dementia progression, paying for care, local resources, and how to choose a provider.
