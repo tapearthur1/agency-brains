@@ -1,20 +1,2 @@
-# Published Posts Log
-## Close At Home Care — Content History
-
-This file is updated automatically after every published post.
-Claude must read this before writing any new content to avoid repetition.
-No keyword or topic should be repeated within 60 days.
-
----
-
-## Published Blog Posts
-
-| Date | Title | Keyword Targeted | Location | Topic |
-|------|-------|-----------------|----------|-------|
-| | | | | |
-
-## Keywords Used (last 60 days)
-None yet — this is the first week.
-
-## Topics Covered (last 60 days)
-None yet — this is the first week.
+undefined
+2025-07-14 | How In-Home Care for Seniors With Dementia Keeps Families Together | in-home care for seniors with dementia | General/Regional | Comprehensive guide to in-home dementia care covering stages of dementia, caregiver services, safety considerations, family concerns, and why familiar home environments benefit cognitive health — featuring Close At Home Care's specialized dementia support offerings.
