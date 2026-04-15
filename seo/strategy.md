@@ -4,26 +4,29 @@ undefined
 
 ## Weekly Performance Update — 2026-04-15
 
-It looks like the Google Analytics data didn't come through properly — the template variable `{{ JSON.stringify($('Get Analytics Data').item.json) }}` wasn't replaced with actual data before being sent to me.
+I notice that the analytics data field contains an unfilled template variable: `{{ $('Summarize Analytics').item.json.analyticsSummary }}` — meaning the actual data didn't populate before this prompt was sent.
 
-**To get your analysis, please:**
-
-1. **Paste the raw JSON data** from your Google Analytics node directly into the message, or
-2. **Share the key metrics** manually, such as:
-   - Page URLs and session counts
-   - Bounce rates
-   - Traffic sources
-   - Top search queries
-   - Conversion/goal completions
+**I don't want to fabricate metrics or invent performance data**, as that could lead to poor strategic decisions for Close At Home Care.
 
 ---
 
-**In the meantime, here's what I'd need to analyze for Close At Home Care:**
+Here's how to fix this so I can give you a real analysis:
 
-- Sessions per page (to identify top performers)
-- Organic vs. direct vs. referral traffic split
-- Which service pages (dementia care, Alzheimer's care, companion care) are getting traction
-- Geographic data showing Cherry Hill, Haddonfield, Moorestown performance
-- Any goal completions like contact form submissions or phone clicks
+**Option 1: Paste the data directly**
+Share the analytics summary text here and I'll analyze it immediately.
 
-Once you share the actual data, I'll deliver the full analysis in your requested format covering **TOP_PERFORMING_PAGES** through **WEEKLY_SUMMARY**, with specific recommendations tailored to your LTC insurance, VA benefits, and private pay audience of dementia/Alzheimer's families in South Jersey.
+**Option 2: Check your automation workflow**
+- Verify the **"Summarize Analytics" node** ran successfully before this step
+- Confirm the output field is named `analyticsSummary` (case-sensitive)
+- Check that the node execution order is correct in your workflow
+
+**Option 3: Share raw GA data**
+Even a simple breakdown works, such as:
+- Top pages by sessions
+- Traffic sources
+- Bounce rates
+- Goal completions/leads
+
+---
+
+Once you share the actual data, I'll deliver the full analysis in the requested format, tailored specifically to Close At Home Care's markets in **Cherry Hill, Haddonfield, and Moorestown NJ**, including relevant local SEO keyword opportunities for home care searches in those areas.
