@@ -1,36 +1,27 @@
-## Dementia & Alzheimer's Blog Topics
+undefined
 
-### Educational (builds trust and authority)
-- "10 Tips for Caring for a Parent with Dementia at Home"
-- "Early Signs of Alzheimer's - What South Jersey Families Should Know"
-- "How to Handle Sundowning - A Guide for Cherry Hill Caregivers"
-- "Dementia vs Alzheimer's - What's the Difference?"
-- "How to Talk to Someone with Dementia - Tips That Actually Work"
-- "Creating a Safe Home for Someone with Memory Loss in NJ"
+## Weekly Performance Update - 2026-04-15
 
-### Local Intent (drives leads)
-- "Memory Care at Home in Cherry Hill NJ - What Families Need to Know"
-- "In-Home Dementia Care Near Haddonfield NJ"
-- "Alzheimer's Home Care Services in Moorestown NJ"
-- "Finding Dementia Caregivers Near Me in South Jersey"
+It looks like the Google Analytics data didn't come through properly — the template variable `{{ JSON.stringify($('Get Analytics Data').item.json) }}` wasn't replaced with actual data before being sent to me.
 
-### Payment Type + Dementia (high converting)
-- "Does Long Term Care Insurance Cover Dementia Home Care in NJ?"
-- "VA Benefits for Veterans with Dementia in New Jersey"
-- "How Much Does In-Home Dementia Care Cost in Cherry Hill NJ?"
+**To get your analysis, please:**
 
-### Caregiver Support (builds emotional connection)
-- "Caregiver Burnout - Signs You Need Help in South Jersey"
-- "You Can't Pour from an Empty Cup - Respite Care in Cherry Hill"
-- "When Is It Time to Get Help for a Parent with Alzheimer's?"
-- "How to Talk to Your Parent About Accepting Home Care Help"
+1. **Paste the raw JSON data** from your Google Analytics node directly into the message, or
+2. **Share the key metrics** manually, such as:
+   - Page URLs and session counts
+   - Bounce rates
+   - Traffic sources
+   - Top search queries
+   - Conversion/goal completions
 
-## Target Keywords - Dementia Specific
-- dementia care at home cherry hill nj
-- alzheimer's home care south jersey
-- in home dementia care near me
-- memory care at home haddonfield nj
-- dementia caregiver cherry hill
-- alzheimer's caregiver moorestown nj
-- respite care for dementia caregivers nj
-- dementia home care agencies near me
+---
+
+**In the meantime, here's what I'd need to analyze for Close At Home Care:**
+
+- Sessions per page (to identify top performers)
+- Organic vs. direct vs. referral traffic split
+- Which service pages (dementia care, Alzheimer's care, companion care) are getting traction
+- Geographic data showing Cherry Hill, Haddonfield, Moorestown performance
+- Any goal completions like contact form submissions or phone clicks
+
+Once you share the actual data, I'll deliver the full analysis in your requested format covering **TOP_PERFORMING_PAGES** through **WEEKLY_SUMMARY**, with specific recommendations tailored to your LTC insurance, VA benefits, and private pay audience of dementia/Alzheimer's families in South Jersey.
