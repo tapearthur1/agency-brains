@@ -1,6 +1,8 @@
 undefined
 
-## Weekly Performance Update - 2026-04-15
+---
+
+## Weekly Performance Update — 2026-04-15
 
 It looks like the Google Analytics data didn't come through properly — the template variable `{{ JSON.stringify($('Get Analytics Data').item.json) }}` wasn't replaced with actual data before being sent to me.
 
