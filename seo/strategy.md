@@ -2,7 +2,7 @@ undefined
 
 ---
 
-## Weekly Performance Update — 2026-04-15
+## Weekly Performance Update — 2026-04-20
 
 # Close At Home Care — Weekly Google Analytics Analysis
 
@@ -12,125 +12,109 @@ undefined
 
 | Rank | Page | Users | Sessions | Views |
 |------|------|-------|----------|-------|
-| 1 | Homepage (/) | 113 | 128 | 148 |
-| 2 | Contact Us (/contact-us/) | 21 | 22 | 21 |
-| 3 | Cherry Hill Township Location | 13 | 14 | 14 |
-| 4 | Our Services | 10 | 10 | 12 |
-| 5 | Elderly Home Care Service | 10 | 10 | 11 |
-| 6 | Home Care Agencies Cherry Hill | 8 | 8 | 8 |
-| 7 | Chronic Disease Care (Blog) | 6 | 6 | 6 |
-| 8 | Mount Laurel Township Location | 6 | 7 | 6 |
-| 9 | Moorestown Location | 5 | 6 | 6 |
-| 10 | Careers | 5 | 5 | 5 |
+| 1 | Homepage (/) | 51 | 62 | 63 |
+| 2 | Our Services (/our-services/) | 6 | 7 | 10 |
+| 3 | New Blog Post (/new-blog-post/) | 5 | 5 | 6 |
+| 4 | Home Care Agencies in Cherry Hill (/services/home-care-agencies/) | 5 | 6 | 5 |
+| 5 | Blog Index (/blog/) | 4 | 6 | 6 |
+| 6 | Contact Us (/contact-us/) | 4 | 4 | 4 |
+| 7 | Chronic Disease Care Blog Post | 3 | 3 | 3 |
+| 8 | Elderly Home Care Service (/services/elderly-home-care-service/) | 3 | 3 | 3 |
+| 9 | Take the Next Step (/take-the-next-step-3/) | 3 | 3 | 3 |
+| 10 | Cherry Hill Township Location Page | 2 | 3 | 2 |
 
 ---
 
 ## KEY_INSIGHTS:
 
-**1. Homepage Dominates but May Be a Bottleneck**
-The homepage captures ~88% of all users (113 of ~128 unique visitors). While healthy for brand awareness, this heavy concentration suggests users may not be finding deeper service or location pages organically. Internal linking and clear CTAs need strengthening to distribute traffic.
+**1. Homepage Dominance — Healthy but Risky**
+The homepage accounts for roughly **82% of all user traffic** (51 of ~62 unique users). While homepage strength is expected for a local service business, this level of concentration signals that interior pages are not yet pulling their weight in organic search. The site is essentially a one-page operation in terms of traffic distribution.
 
-**2. Contact Page Conversion Signal is Promising**
-21 users reaching /contact-us/ from ~113 homepage visitors represents a roughly **18.5% homepage-to-contact rate**, which is a positive engagement signal. However, the /forms/ page only received 1 visit, suggesting the contact form path may have friction or confusion between /contact-us/ and /forms/.
+**2. Four Active 404 Errors Requiring Immediate Attention**
+There are **four confirmed 404 (Page Not Found) errors** receiving real user traffic this week:
+- `/living-well-with-parkinsons/` — 2 users, 3 views *(likely a broken internal or backlink)*
+- `/creating-a-home-care-oasis-trust-and-comfort-for-elderly-couples/` — 1 user *(broken blog URL)*
+- `/wp-login` — 1 user *(possible bot probe — security concern)*
+- `/locations/cherry-hill-township/` — 0 users but indexed *(duplicate of /location/cherry-hill-township/)*
 
-**3. Location Pages Are Working — But Unevenly**
-Cherry Hill Township (13 users) and Mount Laurel (6 users) are generating traffic, but **Moorestown (5 users) and Gloucester Township (2 users) are significantly underperforming** given that Moorestown is one of your three primary service markets. Haddonfield has **no dedicated location page** appearing in the data at all.
+These represent lost SEO equity, broken user experiences, and in the case of `/wp-login`, a potential security vulnerability worth flagging to your developer.
 
-**4. Critical 404 Errors Require Immediate Attention**
-Multiple 404 pages are consuming real user sessions:
-- **/living-well-with-parkinsons/** — 2 users (likely a broken blog link)
-- **/booking** — 2 users (possibly an old CTA or ad destination)
-- **/creating-a-home-care-oasis.../** — 1 user
-- **/respite-care-giving-family-caregivers.../** — crawled but no traffic (broken blog URL)
-- **/locations/cherry-hill-township/** and **/locations/gloucester-township/** — duplicate URL structure causing 404s
+**3. Services Page Underperforms Relative to Its Importance**
+`/our-services/` received only **6 users** despite being the most commercially important page on the site outside the homepage. Users who need home nursing, dementia care, or Parkinson's support should be landing here in much larger numbers. This suggests weak keyword targeting or poor internal linking from the homepage.
 
-These broken pages are **wasting crawl budget and losing potential conversions.**
+**4. Blog Traffic Is Minimal but Shows Early Signals**
+The `/blog/` index page drew 4 users and the Chronic Disease Care post drew 3. These are small numbers but indicate that content marketing is beginning to generate some pull. The blog post titled "New Blog Post" (/new-blog-post/) with 5 users is clearly a placeholder or test page that should be properly titled, optimized, and redirected if live.
 
-**5. Blog Content Is Nearly Invisible**
-The /blog/ hub page received only 3 visits. Several individual blog posts received **zero traffic** this week, including posts on Parkinson's care, post-hospital recovery, and independent living — all high-intent topics. This indicates either poor indexing, weak internal linking, or no keyword-optimized title/meta strategy on these posts.
+**5. Location Pages Are Nearly Invisible**
+Location-specific pages for Cherry Hill Township, Gloucester Township, Moorestown, and Mount Laurel Township are collectively drawing **5 users total**. For a local home care agency, these pages should be driving significant organic traffic. They are clearly under-optimized.
 
-**6. High-Value Pages Getting Zero Traction**
-- **/faq/** — 0 users (FAQ pages are high-value for featured snippets)
-- **/paying-for-home-care/** — only 2 users (a high-converting topic for families in research mode)
-- **/pricing-plan/** — only 4 users (high purchase-intent page being missed)
+**6. High-Value Conversion Pages Have Very Low Traffic**
+- `/contact-us/` — 4 users
+- `/forms/` — 2 users
+- `/take-the-next-step-3/` — 3 users
+- `/pricing-plan/` — 1 user
+- `/appointment-form/` — 0 users
+
+The funnel between awareness and conversion is extremely thin. Very few users are reaching any stage of the conversion journey.
+
+**7. Zero-Traffic Pages With Strong SEO Potential**
+Several pages that should be ranking for high-intent local searches are getting **zero traffic**:
+- `/faq/`
+- `/paying-for-home-care/`
+- `/identifying-the-right-time-for-home-care/`
+- `/post-hospital-recovery-support.../`
+- `/how-home-care-services-improve-quality-of-life-for-seniors/`
+
+These are exactly the types of pages that convert anxious family members who are researching home care options.
 
 ---
 
 ## CONTENT_RECOMMENDATIONS:
 
-**1. Fix All 404 Pages Immediately**
-- Redirect **/living-well-with-parkinsons/** to your Parkinson's care service page or create the missing blog post
-- Redirect **/booking** to **/contact-us/** or **/take-the-next-step-3/**
-- Redirect **/locations/cherry-hill-township/** → **/location/cherry-hill-township/** and same for Gloucester Township
-- Restore or redirect the broken respite care and home care oasis blog URLs
-- Consolidate /forms/ into /contact-us/ or add a redirect
+**1. Rename and Optimize the "New Blog Post" Page Immediately**
+The page at `/new-blog-post/` is either a live but unoptimized post or a WordPress placeholder. With 5 users already finding it, it needs a proper title, meta description, and keyword-targeted content — or a 301 redirect to a relevant service page if it is a staging artifact. Publishing placeholder content to live URLs damages credibility and SEO.
 
-**2. Create a Dedicated Haddonfield Location Page**
-Haddonfield is a core service area with no location page in the data. Build **/location/haddonfield/** with:
-- Locally relevant copy mentioning Haddonfield neighborhoods
+**2. Revive and Redirect the Broken Parkinson's Page**
+`/living-well-with-parkinsons/` is getting traffic but returning a 404. This URL has likely earned some backlink equity. You have a live Parkinson's care page at `/parkinsons-care-cherry-hill-nj/`. Set up a **301 redirect** from the broken URL to that page immediately to recover that traffic and link equity.
+
+**3. 301 Redirect the Broken Blog Post URL**
+`/creating-a-home-care-oasis-trust-and-comfort-for-elderly-couples/` is returning a 404. If this blog post existed and was removed or the slug changed, find the current version and redirect it. If it was never published, create it — the topic of comfort and trust for elderly couples at home is a strong family-decision-stage topic.
+
+**4. Rebuild Location Pages With Genuine Local Content**
+Each location page (Cherry Hill Township, Moorestown, Mount Laurel, Gloucester Township) needs to move beyond a basic template. Recommended structure for each:
+- H1 with city + service keyword (e.g., "In-Home Senior Care in Moorestown, NJ")
+- 300–500 words of locally relevant content mentioning neighborhoods, proximity references, and community context
 - Embedded Google Map
-- Local schema markup
-- Links to relevant services (elderly care, Parkinson's, chronic disease)
+- Local testimonial or case reference if available
+- Location-specific FAQ section
+- Internal links to relevant service pages
 
-**3. Revamp the Blog Strategy**
-Publish or re-optimize these underperforming posts with keyword-rich titles and meta descriptions:
-- "Living Well with Parkinson's" — currently returning a 404, rebuild it
-- Respite care article — rebuild and target "respite care Cherry Hill NJ"
-- Post-hospital recovery — optimize for "home care after hospital discharge NJ"
-Add internal links from the homepage and service pages to blog content.
+**5. Develop a "Cost of Home Care in New Jersey" Content Hub**
+`/paying-for-home-care/` currently has zero traffic but represents one of the highest-intent searches a family caregiver makes. Expand this page significantly with:
+- Average hourly home care rates in South Jersey
+- Medicare vs. private pay vs. long-term care insurance explanations
+- NJ-specific Veterans benefits and state program references
+- A clear CTA to contact Close At Home Care for a free consultation
 
-**4. Strengthen the /paying-for-home-care/ Page**
-This page only got 2 visits despite being one of the most-searched topics by families evaluating home care. Optimize it for keywords like:
-- "how to pay for home care in NJ"
-- "does insurance cover home care NJ"
-- "VA benefits home care New Jersey"
-Add a CTA linking to the contact page.
-
-**5. Build Out the FAQ Page**
-/faq/ received zero traffic but is a prime candidate for Google featured snippets. Populate it with structured Q&A content targeting questions like:
-- "What does a home care aide do?"
-- "How much does in-home care cost in NJ?"
+**6. Upgrade the FAQ Page**
+`/faq/` has zero traffic and is invisible in search. Rewrite it using a proper FAQ schema markup targeting questions like:
+- "How much does home care cost in Cherry Hill NJ?"
 - "What's the difference between home care and home health care?"
-Use FAQ schema markup.
+- "How do I know when my parent needs a home care aide?"
+- "Does Medicare cover in-home care in New Jersey?"
 
-**6. Improve the Careers Page**
-/our-team/ (labeled as Careers) received 5 visits — a meaningful number for a staffing-challenged industry. Ensure this page has:
-- Clear job listings or an application form
-- Keywords like "home care aide jobs Cherry Hill NJ"
-- A compelling employee value proposition
+**7. Create a "Signs Your Parent Needs Home Care" Pillar Post**
+This is one of the most searched topics in the family caregiver journey. The existing page `/identifying-the-right-time-for-home-care/` has zero traffic, which suggests it either lacks depth or has no inbound links. Transform it into a comprehensive 1,500+ word guide with internal links to all service pages.
 
 ---
 
 ## KEYWORD_OPPORTUNITIES:
 
-**High-Priority Local Keywords to Target:**
+**High Priority — Local Service Keywords (Near-Term Wins)**
 
-| Keyword | Target Page | Priority |
-|---------|-------------|----------|
-| Home care agencies in Cherry Hill NJ | /services/home-care-agencies/ | 🔴 High |
-| In-home care Haddonfield NJ | /location/haddonfield/ (create) | 🔴 High |
-| Elderly home care Moorestown NJ | /location/moorestown/ | 🔴 High |
-| Respite care Cherry Hill NJ | New or restored blog post | 🔴 High |
-| Parkinson's care at home NJ | /living-well-with-parkinsons/ (rebuild) | 🔴 High |
-| How to pay for home care NJ | /paying-for-home-care/ | 🟡 Medium |
-| Post-hospital home care NJ | /post-hospital-recovery-support.../ | 🟡 Medium |
-| Home care aide jobs Cherry Hill NJ | /our-team/ | 🟡 Medium |
-| Chronic disease home care NJ | /chronic-disease-care-at-home.../ | 🟡 Medium |
-| Senior care Cherry Hill NJ cost | /pricing-plan/ | 🟡 Medium |
-| Home care FAQ NJ | /faq/ | 🟢 Lower |
-| Dementia care at home Cherry Hill | /our-services/ | 🟢 Lower |
-| Mount Laurel home care agency | /location/mount-laurel-township/ | 🟢 Lower |
-
-**Long-Tail Blog Keyword Opportunities:**
-- "signs your elderly parent needs help at home"
-- "how to talk to aging parent about home care"
-- "difference between companion care and personal care NJ"
-- "what to look for in a home care agency NJ"
-
----
-
-## STRATEGY_UPDATE:
-
-**Immediate Actions (This Week):**
-1. ✅ Implement 301 redirects for all identified 404 pages
-2. ✅ Fix the /locations/ vs
+| Keyword | Intent | Target Page |
+|---------|--------|-------------|
+| home care agencies Cherry Hill NJ | Commercial | /services/home-care-agencies/ |
+| elder care at home Cherry Hill NJ | Commercial | / or /services/elderly-home-care-service/ |
+| in-home care Moorestown NJ | Local | /location/moorestown/ |
+| senior home care Mount Laurel NJ | Local | /location/mount
