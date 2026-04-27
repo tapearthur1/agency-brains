@@ -2,7 +2,7 @@ undefined
 
 ---
 
-## Weekly Performance Update — 2026-04-20
+## Weekly Performance Update — 2026-04-27
 
 # Close At Home Care — Weekly Google Analytics Analysis
 
@@ -10,111 +10,106 @@ undefined
 
 ## TOP_PERFORMING_PAGES:
 
-| Rank | Page | Users | Sessions | Views |
-|------|------|-------|----------|-------|
-| 1 | Homepage (/) | 51 | 62 | 63 |
-| 2 | Our Services (/our-services/) | 6 | 7 | 10 |
-| 3 | New Blog Post (/new-blog-post/) | 5 | 5 | 6 |
-| 4 | Home Care Agencies in Cherry Hill (/services/home-care-agencies/) | 5 | 6 | 5 |
-| 5 | Blog Index (/blog/) | 4 | 6 | 6 |
-| 6 | Contact Us (/contact-us/) | 4 | 4 | 4 |
-| 7 | Chronic Disease Care Blog Post | 3 | 3 | 3 |
-| 8 | Elderly Home Care Service (/services/elderly-home-care-service/) | 3 | 3 | 3 |
-| 9 | Take the Next Step (/take-the-next-step-3/) | 3 | 3 | 3 |
-| 10 | Cherry Hill Township Location Page | 2 | 3 | 2 |
+| Rank | Page | Users | Sessions | Views | Notes |
+|------|------|-------|----------|-------|-------|
+| 1 | Homepage (/) | 42 | 48 | 51 | Dominant traffic driver |
+| 2 | Take the First Step Today | 9 | 9 | 9 | Strong conversion intent |
+| 3 | Navigating In-Home Care for Aging Parents (guide) | 9 | 9 | 13 | High views-to-user ratio — engaged readers |
+| 4 | Ready to Take the Next Step | 8 | 8 | 8 | Second conversion page performing well |
+| 5 | Ultimate Checklist for Hiring Home Care Agencies | 5 | 5 | 13 | Highest engagement ratio on site (2.6 views/user) |
 
 ---
 
 ## KEY_INSIGHTS:
 
-**1. Homepage Dominance — Healthy but Risky**
-The homepage accounts for roughly **82% of all user traffic** (51 of ~62 unique users). While homepage strength is expected for a local service business, this level of concentration signals that interior pages are not yet pulling their weight in organic search. The site is essentially a one-page operation in terms of traffic distribution.
+**1. Homepage Dependency is a Risk**
+The homepage accounts for roughly **65% of all users** this week. While healthy as an entry point, this level of concentration suggests the site lacks diversified organic traffic from inner pages. A single ranking drop or algorithm shift could significantly impact overall visibility.
 
-**2. Four Active 404 Errors Requiring Immediate Attention**
-There are **four confirmed 404 (Page Not Found) errors** receiving real user traffic this week:
-- `/living-well-with-parkinsons/` — 2 users, 3 views *(likely a broken internal or backlink)*
-- `/creating-a-home-care-oasis-trust-and-comfort-for-elderly-couples/` — 1 user *(broken blog URL)*
-- `/wp-login` — 1 user *(possible bot probe — security concern)*
-- `/locations/cherry-hill-township/` — 0 users but indexed *(duplicate of /location/cherry-hill-township/)*
+**2. Content is Driving Engagement More Than Service Pages**
+The two blog/guide-style pages — *Navigating In-Home Care for Aging Parents* (13 views, 9 users) and *The Ultimate Checklist* (13 views, 5 users) — are generating **disproportionately high page views relative to visitors**. Users are reading deeply, scrolling, and likely returning to these pages. This is a strong signal that long-form educational content resonates with your audience.
 
-These represent lost SEO equity, broken user experiences, and in the case of `/wp-login`, a potential security vulnerability worth flagging to your developer.
+**3. Conversion Funnel Pages Are Active**
+Both */take-the-first-step-today/* and */ready-to-take-the-next-step/* received meaningful traffic (9 and 8 users respectively). This suggests visitors are moving through an intentional journey. However, the **Contact page (/contact-us/) only received 3 users**, which may indicate drop-off before final conversion.
 
-**3. Services Page Underperforms Relative to Its Importance**
-`/our-services/` received only **6 users** despite being the most commercially important page on the site outside the homepage. Users who need home nursing, dementia care, or Parkinson's support should be landing here in much larger numbers. This suggests weak keyword targeting or poor internal linking from the homepage.
+**4. Service Pages Are Nearly Invisible**
+Critical commercial pages like */services/elderly-home-care-service/*, */services/home-care-agencies/*, and */our-services/* are receiving minimal to zero traffic. These pages should be ranking for high-intent local keywords but currently are not pulling organic visitors.
 
-**4. Blog Traffic Is Minimal but Shows Early Signals**
-The `/blog/` index page drew 4 users and the Chronic Disease Care post drew 3. These are small numbers but indicate that content marketing is beginning to generate some pull. The blog post titled "New Blog Post" (/new-blog-post/) with 5 users is clearly a placeholder or test page that should be properly titled, optimized, and redirected if live.
+**5. Technical Issues Requiring Immediate Attention**
+- */how-in-home-caregivers-bring-comfort-and-support/* is generating **a 404 error** (Page Not Found) while the original URL also exists and received 3 users. There is a **duplicate URL/redirect issue** causing a crawl and user experience problem.
+- */new-blog-post/* is indexed and receiving traffic — this appears to be an **unpublished or placeholder page** that should be removed or properly titled.
+- */portfolio/* and */pricing-plan/* pages with zero traffic may be **legacy or irrelevant pages** that are diluting crawl budget.
+- */out-team/* (misspelled — should likely be */our-team/*) is a **URL slug error** that needs correction.
+- */booking* returning a 404 suggests a **broken internal or external link** pointing to a nonexistent page.
 
-**5. Location Pages Are Nearly Invisible**
-Location-specific pages for Cherry Hill Township, Gloucester Township, Moorestown, and Mount Laurel Township are collectively drawing **5 users total**. For a local home care agency, these pages should be driving significant organic traffic. They are clearly under-optimized.
-
-**6. High-Value Conversion Pages Have Very Low Traffic**
-- `/contact-us/` — 4 users
-- `/forms/` — 2 users
-- `/take-the-next-step-3/` — 3 users
-- `/pricing-plan/` — 1 user
-- `/appointment-form/` — 0 users
-
-The funnel between awareness and conversion is extremely thin. Very few users are reaching any stage of the conversion journey.
-
-**7. Zero-Traffic Pages With Strong SEO Potential**
-Several pages that should be ranking for high-intent local searches are getting **zero traffic**:
-- `/faq/`
-- `/paying-for-home-care/`
-- `/identifying-the-right-time-for-home-care/`
-- `/post-hospital-recovery-support.../`
-- `/how-home-care-services-improve-quality-of-life-for-seniors/`
-
-These are exactly the types of pages that convert anxious family members who are researching home care options.
+**6. Location Pages Are Underperforming**
+Cherry Hill Township received 2 users; Mount Laurel received 1; Moorestown and Gloucester Township received zero. These geo-targeted pages are not yet driving meaningful local search traffic despite being the core service area.
 
 ---
 
 ## CONTENT_RECOMMENDATIONS:
 
-**1. Rename and Optimize the "New Blog Post" Page Immediately**
-The page at `/new-blog-post/` is either a live but unoptimized post or a WordPress placeholder. With 5 users already finding it, it needs a proper title, meta description, and keyword-targeted content — or a 301 redirect to a relevant service page if it is a staging artifact. Publishing placeholder content to live URLs damages credibility and SEO.
+**Immediate Priorities:**
 
-**2. Revive and Redirect the Broken Parkinson's Page**
-`/living-well-with-parkinsons/` is getting traffic but returning a 404. This URL has likely earned some backlink equity. You have a live Parkinson's care page at `/parkinsons-care-cherry-hill-nj/`. Set up a **301 redirect** from the broken URL to that page immediately to recover that traffic and link equity.
+1. **Fix the 404 on /how-in-home-caregivers-bring-comfort-and-support/**
+Implement a proper 301 redirect from the broken version to the live URL. This page is already attracting users (9 views across both URLs) and losing link equity and user trust due to the error.
 
-**3. 301 Redirect the Broken Blog Post URL**
-`/creating-a-home-care-oasis-trust-and-comfort-for-elderly-couples/` is returning a 404. If this blog post existed and was removed or the slug changed, find the current version and redirect it. If it was never published, create it — the topic of comfort and trust for elderly couples at home is a strong family-decision-stage topic.
+2. **Delete or Redirect /new-blog-post/**
+This placeholder page should never be publicly indexed. Either delete it, redirect to /blog/, or replace it with a properly titled published article immediately.
 
-**4. Rebuild Location Pages With Genuine Local Content**
-Each location page (Cherry Hill Township, Moorestown, Mount Laurel, Gloucester Township) needs to move beyond a basic template. Recommended structure for each:
-- H1 with city + service keyword (e.g., "In-Home Senior Care in Moorestown, NJ")
-- 300–500 words of locally relevant content mentioning neighborhoods, proximity references, and community context
-- Embedded Google Map
-- Local testimonial or case reference if available
-- Location-specific FAQ section
-- Internal links to relevant service pages
+3. **Fix /out-team/ → /our-team/**
+Correct the URL slug and implement a 301 redirect. A misspelled careers/team page reflects poorly on professionalism and may be causing a broken link somewhere on the site.
 
-**5. Develop a "Cost of Home Care in New Jersey" Content Hub**
-`/paying-for-home-care/` currently has zero traffic but represents one of the highest-intent searches a family caregiver makes. Expand this page significantly with:
-- Average hourly home care rates in South Jersey
-- Medicare vs. private pay vs. long-term care insurance explanations
-- NJ-specific Veterans benefits and state program references
-- A clear CTA to contact Close At Home Care for a free consultation
+4. **Strengthen the Contact Page CTA Path**
+With conversion-intent pages getting 8–9 users but the contact page only getting 3, there is a funnel leak. Add a **more prominent, direct CTA button** on both */take-the-first-step-today/* and */ready-to-take-the-next-step/* that links directly to */contact-us/* or the */forms/* page. Consider consolidating these two conversion pages — having two similarly named pages may be creating confusion.
 
-**6. Upgrade the FAQ Page**
-`/faq/` has zero traffic and is invisible in search. Rewrite it using a proper FAQ schema markup targeting questions like:
-- "How much does home care cost in Cherry Hill NJ?"
-- "What's the difference between home care and home health care?"
-- "How do I know when my parent needs a home care aide?"
-- "Does Medicare cover in-home care in New Jersey?"
+5. **Expand the Checklist Article**
+*/the-ultimate-checklist-for-hiring-home-care-agencies-in-cherry-hill-nj/* has a **2.6 views-per-user ratio**, the highest on the site. Users are engaging deeply. Expand this article with:
+   - A downloadable PDF checklist (lead capture opportunity)
+   - Internal links to service pages and the contact page
+   - An FAQ section targeting long-tail questions
+   - Schema markup for HowTo or FAQPage
 
-**7. Create a "Signs Your Parent Needs Home Care" Pillar Post**
-This is one of the most searched topics in the family caregiver journey. The existing page `/identifying-the-right-time-for-home-care/` has zero traffic, which suggests it either lacks depth or has no inbound links. Transform it into a comprehensive 1,500+ word guide with internal links to all service pages.
+6. **Build Out the Navigating In-Home Care Guide**
+Similarly, the *Navigating In-Home Care for Aging Parents* guide has a strong 1.44 views-per-user ratio. Add a **table of contents**, internal linking to condition-specific pages (Parkinson's, dementia, chronic disease), and a CTA to schedule a consultation.
+
+7. **Resurrect Zero-Traffic Content**
+The following pages have strong SEO potential but zero traffic this week — they need on-page optimization, backlinks, or content expansion:
+   - */parkinsons-care-cherry-hill-nj/*
+   - */respite-care-cherry-hill-nj/* (received 1 user — needs promotion)
+   - */paying-for-home-care/*
+   - */how-home-care-services-improve-quality-of-life-for-seniors/*
 
 ---
 
 ## KEYWORD_OPPORTUNITIES:
 
-**High Priority — Local Service Keywords (Near-Term Wins)**
+**High-Priority Local Keywords to Target:**
 
-| Keyword | Intent | Target Page |
-|---------|--------|-------------|
-| home care agencies Cherry Hill NJ | Commercial | /services/home-care-agencies/ |
-| elder care at home Cherry Hill NJ | Commercial | / or /services/elderly-home-care-service/ |
-| in-home care Moorestown NJ | Local | /location/moorestown/ |
-| senior home care Mount Laurel NJ | Local | /location/mount
+| Keyword | Target Page | Intent |
+|---------|-------------|--------|
+| home care agency Cherry Hill NJ | /services/home-care-agencies/ | Commercial |
+| elderly home care Cherry Hill NJ | /services/elderly-home-care-service/ | Commercial |
+| in-home care for aging parents NJ | /your-guide-to-navigating-in-home-care-for-aging-parents/ | Informational |
+| how to hire a home care agency NJ | /the-ultimate-checklist-for-hiring-home-care-agencies-in-cherry-hill-nj/ | Informational |
+| respite care Cherry Hill NJ | /respite-care-cherry-hill-nj/ | Commercial |
+| Parkinson's home care Cherry Hill | /parkinsons-care-cherry-hill-nj/ | Commercial |
+| companionship care Cherry Hill NJ | /in-home-companionship-care-in-cherry-hill-nj-.../ | Commercial |
+| home care Moorestown NJ | /location/moorestown/ | Local |
+| home care Haddonfield NJ | New page needed | Local |
+| chronic disease home care NJ | /chronic-disease-care-at-home-.../ | Commercial |
+| paying for home care in NJ | /paying-for-home-care/ | Informational |
+| signs your parent needs home care | New content opportunity | Informational |
+| difference between home care and nursing home | New content opportunity | Informational |
+
+**Notable Gap: Haddonfield NJ**
+Despite being listed as a primary service area, there is **no location page for Haddonfield** in the dataset. This is a missed local SEO opportunity that should be addressed immediately with a dedicated, optimized location page.
+
+---
+
+## STRATEGY_UPDATE:
+
+**This Week's Strategic Focus: Fix Technical Issues + Reinforce What's Working**
+
+**Phase 1 — Technical Cleanup (This Week)**
+- Resolve the /how-in-home-caregivers-bring-comfort-and-support/ 404 with a 301 redirect
+- Remove or redirect /new-blog-post
