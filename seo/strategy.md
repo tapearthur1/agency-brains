@@ -2,9 +2,9 @@ undefined
 
 ---
 
-## Weekly Performance Update — 2026-06-22
+## Weekly Performance Update — 2026-06-29
 
-# Close At Home Care | Weekly Google Analytics Analysis
+# Close At Home Care — Weekly Analytics Report
 
 ---
 
@@ -12,92 +12,136 @@ undefined
 
 | Rank | Page | Users | Sessions | Views |
 |------|------|-------|----------|-------|
-| 1 | Home Care Agencies in Cherry Hill (/services/home-care-agencies/) | 30 | 30 | 29 |
-| 2 | Homepage - Elder In-Home Care (/") | 12 | 19 | 25 |
-| 3 | About Us (/about-us/) | 6 | 7 | 7 |
-| 4 | Contact Us (/contact-us/) | 6 | 6 | 6 |
-| 5 | Moorestown Location (/location/moorestown/) | 6 | 6 | 7 |
+| 1 | Non-Medical Home Care in Pine Hill NJ (Homepage `/`) | 45 | 46 | 50 |
+| 2 | Home Care Agencies in Cherry Hill, NJ | 12 | 12 | 16 |
+| 3 | Elderly Home Care in Cherry Hill, NJ | 10 | 13 | 15 |
+| 4 | Cherry Hill Township Location Page | 9 | 9 | 9 |
+| 5 | Blog & Tips / Contact Us / Careers (tied) | 8 | 8 | 10–12 |
 
-**🏆 Clear Winner This Week:** `/services/home-care-agencies/` is outperforming the homepage in unique users, signaling strong organic search intent around the "home care agencies" keyword cluster in Cherry Hill.
+**Notable:** The homepage is the dominant traffic driver this week, capturing **45 of approximately 160 total users (~28%)**, suggesting strong branded and local search entry points. The Careers page generating 8 users and 12 views is worth monitoring as a potential staffing pipeline indicator.
 
 ---
 
 ## KEY_INSIGHTS:
 
-**✅ What's Working**
+**1. Homepage Title Tag Mismatch — Critical Issue**
+The homepage (`/`) is currently titled *"Non-Medical Home Care in Pine Hill NJ"* rather than reflecting Cherry Hill, Haddonfield, or Moorestown — your primary service areas. This is a significant SEO and brand alignment problem. Pine Hill is outside your core market and may be attracting misaligned traffic while diluting your authority in Cherry Hill.
 
-- **The `/services/home-care-agencies/` page is your top traffic driver** with 30 users, surpassing the homepage. This suggests it is ranking well for high-intent local searches like *"home care agencies in Cherry Hill NJ"* and should be treated as a priority landing page.
-- **The homepage has a healthy session-to-view ratio (19 sessions / 25 views)**, indicating return visitors are browsing multiple times, likely in a consideration phase before reaching out.
-- **Moorestown is your strongest-performing location page** (6 users), outpacing Cherry Hill Township (4 users) and Gloucester Township (1 user), which is a notable geographic signal worth acting on.
-- **Contact Us received 6 users**, which is a positive conversion indicator relative to overall site traffic volume this week.
+**2. Duplicate Path Alert**
+Two separate pages share the `/our-services/` path:
+- *Non-Medical Home Care Cherry Hill NJ* (5 users, 10 views)
+- *Home Nursing Services in NJ | Dementia, Parkinson's Care* (0 users, 0 views)
 
-**⚠️ Warning Signs**
+This likely indicates a **canonical conflict or indexing issue** that could be splitting ranking signals and confusing Google.
 
-- **The homepage is appearing under two different page titles**, one for Cherry Hill elder care and one for Pine Hill non-medical home care. This is a **critical duplicate URL / title tag issue** that needs immediate investigation — two separate entries both showing path `/` suggests a canonicalization or tracking error that could be diluting SEO authority.
-- **The `/our-services/` page recorded zero traffic** despite having a strong title (*Home Nursing Services in NJ | Dementia, Parkinson's Care*). This is a significant gap given how valuable that page should be for conversions.
-- **All blog posts recorded zero traffic this week**, including recently published content on Parkinson's care, chronic disease, and elderly home care — representing wasted content investment without a promotion and indexing strategy.
-- **Mount Laurel Township, a key service area, received zero traffic** despite being a high-value South Jersey market.
-- **The `/forms/` page had 2 users and 3 views** but is separate from `/contact-us/` — this split may be fragmenting your conversion tracking and creating a confusing user journey.
+**3. Location Pages Are Underperforming**
+- Cherry Hill Township: 9 users
+- Moorestown: 6 users
+- Gloucester Township: 4 users
+- Mount Laurel: 4 users
+
+These pages collectively represent key service area targets but are generating minimal traffic, suggesting they are either **not ranking well**, lack sufficient content depth, or need stronger internal linking.
+
+**4. Blog Content Is Nearly Invisible**
+The blog landing page draws 8 users, but individual blog posts are generating only **1–2 users each**, with several high-value posts (Parkinson's Care, Paying for Home Care, Home Care Agencies Checklist) receiving just 1 user. Multiple posts received **zero views**, including potentially strong content like *"Identifying the Right Time for Home Care."*
+
+**5. High-Intent Pages Receiving Low Traffic**
+- Pricing Plan: 6 users
+- Contact Us: 8 users
+- Forms: 1 user
+
+The drop-off between Contact (8 users) and Forms (1 user) suggests a **conversion funnel disconnect** — visitors may not be finding or completing the inquiry form.
+
+**6. Zero-Traffic Pages Represent Wasted Assets**
+Several pages recorded **0 users and 0 views** this week:
+- Elder In-Home Care Agency (appears to be a duplicate homepage entry)
+- How Can Elderly Home Care Services Support Comfort & Independent Living?
+- Identifying the Right Time for Home Care
+- Serving Cherry Hill, Voorhees, Haddonfield, Moorestown page
+- Take the First Step Today
+
+These pages either lack indexing, internal links, or targeted keyword optimization.
 
 ---
 
 ## CONTENT_RECOMMENDATIONS:
 
-**🔴 Immediate Priority (This Week)**
+**1. Fix the Homepage Title Tag Immediately**
+Change the title from *"Non-Medical Home Care in Pine Hill NJ"* to something aligned with your primary markets, such as:
+*"Non-Medical Home Care in Cherry Hill, NJ | Close At Home Care"*
+or
+*"Home Care Agency Serving Cherry Hill, Haddonfield & Moorestown NJ"*
+This is your single highest-impact fix this week.
 
-1. **Investigate the duplicate homepage issue** — Audit why `/` is appearing twice in Google Analytics under different page titles. Check for canonical tags, alternate language settings, or UTM parameter conflicts. Consolidating this correctly could recover hidden traffic data and prevent SEO cannibalization.
+**2. Resolve the Duplicate `/our-services/` Path**
+Audit whether two pages are truly sharing the same URL. If so, consolidate content into one authoritative services page optimized for Cherry Hill and South Jersey non-medical home care. Set a 301 redirect from any duplicate. Ensure the canonical tag points to the correct version.
 
-2. **Optimize `/our-services/` urgently** — This page targets Dementia and Parkinson's care, which are high-value, high-intent keywords, yet it received zero traffic. Conduct an immediate audit: check indexing status in Google Search Console, review internal linking pointing to this page, and verify the page is not accidentally blocked by robots.txt or a noindex tag.
+**3. Expand Location Pages with Unique, Substantive Content**
+Each location page (Cherry Hill Township, Moorestown, Gloucester Township, Mount Laurel) should have at minimum:
+- 600–900 words of unique content
+- Local landmarks, senior population references, and community context
+- A service-specific section (e.g., *"Dementia Care in Moorestown NJ"*)
+- An embedded Google Map and local schema markup
+- Clear CTAs linking to Contact and Pricing pages
 
-3. **Add internal links from your top-performing pages to zero-traffic pages** — The `/services/home-care-agencies/` page (30 users) should contain contextual links to `/our-services/`, `/services/elderly-home-care-service/`, and `/location/mount-laurel-township/` to redistribute authority and traffic.
+**4. Revitalize Zero-Traffic Blog Posts**
+For posts like *"Identifying the Right Time for Home Care"* and *"How Can Elderly Home Care Services Support Comfort & Independent Living?"*:
+- Review and strengthen their target keywords
+- Add internal links from the homepage and services pages pointing to them
+- Update meta titles and descriptions to improve click-through rates
+- Ensure they are included in the XML sitemap and submitted to Google Search Console
 
-**🟡 Short-Term Priority (Next 2–3 Weeks)**
+**5. Strengthen the "Serving South Jersey" Page**
+The page at `/serving-cherry-hill-voorhees-haddonfield-moorestown-all-of-south-jersey/` received zero traffic but has strong keyword potential as a geographic hub page. Optimize it as a regional landing page with links to all individual location pages, and build internal links from the homepage and blog posts to it.
 
-4. **Strengthen the Moorestown location page** — Given its strong performance (6 users, tied with About Us and Contact Us), expand the `/location/moorestown/` page with more localized content: neighborhood references, specific services offered in Moorestown, and a dedicated call-to-action. Add a Moorestown-specific FAQ section targeting searches like *"in-home care Moorestown NJ"* and *"senior care near Moorestown."*
-
-5. **Revamp the Cherry Hill Township location page** — Currently underperforming at 4 users despite Cherry Hill being your primary market. This page should be your second-strongest performer. Add service-specific content, testimonials from Cherry Hill families, and locally relevant schema markup.
-
-6. **Create a Mount Laurel location page with real content** — The current `/location/mount-laurel-township/` page has zero traffic. Mount Laurel is a densely populated South Jersey suburb with a significant senior population. Build this page out with targeted local content and citations.
-
-7. **Promote blog content actively** — All four blog posts received zero organic traffic this week. Implement the following for each post:
-   - Share on Facebook and Google Business Profile
-   - Add internal links from relevant service pages
-   - Submit URLs to Google Search Console for indexing
-   - Build at least one external link to each post
-
-**🟢 Ongoing Priorities**
-
-8. **Consolidate or clarify `/contact-us/` vs `/forms/`** — Users should reach a single, clear conversion point. If `/forms/` serves a different purpose (e.g., caregiver application vs. client inquiry), label it clearly and ensure it is not competing with your primary contact page in analytics or in search.
-
-9. **Add a clear conversion CTA on `/services/home-care-agencies/`** — Since this is your highest-traffic page, it should have a prominent phone number, contact form embed, and trust signals (licenses, testimonials, years in business) to convert the 30 weekly visitors who are clearly in research mode.
+**6. Add a Clear Path from Contact to Forms**
+Since only 1 of 8 Contact page visitors reached the Forms page, consider:
+- Embedding the inquiry form directly on the `/contact-us/` page rather than having a separate `/forms/` page
+- Adding a prominent CTA button ("Request a Free Consultation") above the fold on the Contact page
 
 ---
 
 ## KEYWORD_OPPORTUNITIES:
 
-**High-Intent Local Keywords to Target (Based on Traffic Patterns)**
+Based on current traffic patterns and gaps, prioritize these keyword targets in upcoming content and on-page optimization:
 
-| Keyword | Target Page | Priority |
-|---------|------------|----------|
-| Home care agencies in Cherry Hill NJ | /services/home-care-agencies/ | 🔴 Already ranking — optimize further |
-| Elder in-home care Cherry Hill NJ | / (homepage) | 🔴 Strengthen with schema |
-| In-home care Moorestown NJ | /location/moorestown/ | 🔴 Expand page content |
-| Senior home care Mount Laurel NJ | /location/mount-laurel-township/ | 🟡 Build out page |
-| Elderly home care Cherry Hill NJ | /services/elderly-home-care-service/ | 🟡 Low traffic (3 users) — needs links |
-| Non-medical home care South Jersey | New or existing page | 🟡 Underserved based on data |
-| Parkinson's care at home Cherry Hill | /parkinsons-care-cherry-hill-nj/ | 🟡 Zero traffic — promote & index |
-| Dementia home care NJ | /our-services/ | 🔴 Zero traffic — audit immediately |
-| Home care agencies Haddonfield NJ | New location page | 🟢 Gap — no Haddonfield page visible |
-| Chronic disease home care NJ | /chronic-disease-care-at-home-.../ | 🟢 Blog post — needs promotion |
-| Home care cost NJ / pricing | /pricing-plan/ | 🟢 2 users — optimize for "home care cost" searches |
+**High Priority — Service + Location Keywords:**
+- "non-medical home care Cherry Hill NJ" *(services page — strengthen)*
+- "home care agencies Cherry Hill NJ" *(currently #2 page — build authority)*
+- "elderly home care Cherry Hill NJ" *(currently #3 page — expand)*
+- "home care Haddonfield NJ" *(no dedicated page detected — create one)*
+- "home care Moorestown NJ" *(location page exists but underperforming)*
 
-**🚨 Notable Gap: Haddonfield**
-Close At Home Care lists Haddonfield as a service area, but **no Haddonfield location page appears in this dataset**. Given the affluent demographic profile of Haddonfield and its proximity to Cherry Hill, this is a significant missed keyword opportunity. Creating a `/location/haddonfield/` page should be a near-term priority.
+**Medium Priority — Condition-Specific Keywords:**
+- "Parkinson's care at home Cherry Hill NJ" *(blog post exists, needs SEO boost)*
+- "dementia home care South Jersey"
+- "respite care Cherry Hill NJ" *(blog post exists with only 2 users)*
+- "senior care Gloucester Township NJ"
+- "in-home care Mount Laurel NJ"
+
+**Long-Tail Blog Opportunities:**
+- "when should elderly parents get home care"
+- "how to pay for home care in New Jersey"
+- "home care vs assisted living Cherry Hill NJ"
+- "what does a home caregiver do daily"
+- "non-medical vs medical home care NJ"
+
+**Branded + Near-Me Opportunities:**
+- "Close At Home Care reviews"
+- "home care near me Cherry Hill"
+- "home care agency near Haddonfield NJ"
 
 ---
 
 ## STRATEGY_UPDATE:
 
-**Overall Assessment: Early-Stage Growth with Clear Leverage Points**
+**Immediate Actions (This Week):**
+1. ✅ Fix homepage title tag — change from Pine Hill to Cherry Hill/South Jersey focus
+2. ✅ Audit and resolve the `/our-services/` duplicate URL conflict
+3. ✅ Merge or redirect the duplicate homepage entry (*"Elder In-Home Care Agency in Cherry Hill"*)
+4. ✅ Embed contact form directly on `/contact-us/` to reduce funnel drop-off
 
-The site is generating meaningful traction on one key service page and the homepage, but traffic is heavily concentrated at the top with a steep drop-off. The core strategic challenge this week is **converting a one-page traffic story into a
+**Short-Term (Next 2–4 Weeks):**
+- Expand all location pages (Cherry Hill Township, Moorestown, Gloucester, Mount Laurel) with 700+ words of unique geo-optimized content
+- Add internal links from the homepage and top service pages to underperforming blog posts
+- Publish 1–2 new blog posts targeting high-intent keywords (e.g., *"Home Care vs. Assisted
